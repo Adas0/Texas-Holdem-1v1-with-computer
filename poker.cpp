@@ -1,3 +1,6 @@
+//This code belongs to Adam Korytowski, Kraków, Poland
+
+
 #include <iostream>
 #include <vector>
 #include <string>
